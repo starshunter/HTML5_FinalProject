@@ -1,0 +1,14 @@
+header{
+    background-image:url(header_background.jpg);
+    color:white;
+    font-style:italic;
+    height:600px;
+    background-size: 100%;
+}
+
+header.nav{
+    background-color:blue;
+}
+body{
+    padding-top:33px;
+}
